@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=200&section=header&text=Jahnavi%20Deshkar&fontSize=50&fontColor=282a36&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3e454b&height=200&section=header&text=Jahnavi%20Deshkar&fontSize=50&fontColor=48b7f4&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&height=50&lines=Solving+Problems;Creating+Balance;Experiencing+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=50FA7B&center=true&vCenter=true&width=600&height=50&lines=Solving+Problems;Creating+Balance;Experiencing+Reality" alt="Typing SVG" />
 </a>
 
 </div>
