@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 My GitHub Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/jahnavi-deshkar/jahnavi-deshkar/output/github-snake.svg)
