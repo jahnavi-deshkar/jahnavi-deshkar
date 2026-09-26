@@ -1,117 +1,12 @@
 <div align="center">
 
-<!-- Animated Header: Name with Glowing Dracula Orbs -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%">
-  <defs>
-    <!-- Dracula Gradient -->
-    <linearGradient id="draculaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#bd93f9" />
-      <stop offset="50%" stop-color="#ff79c6" />
-      <stop offset="100%" stop-color="#8be9fd" />
-    </linearGradient>
-    
-    <radialGradient id="orbGlow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff79c6" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#282a36" stop-opacity="0"/>
-    </radialGradient>
-    
-    <radialGradient id="orbGlow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8be9fd" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#282a36" stop-opacity="0"/>
-    </radialGradient>
-    
-    <radialGradient id="orbGlow3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#bd93f9" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#282a36" stop-opacity="0"/>
-    </radialGradient>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=200&section=header&text=Jahnavi%20Deshkar&fontSize=50&fontColor=282a36&animation=fadeIn&fontAlignY=38" width="100%" />
 
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <style>
-    .bg { fill: #282a36; rx: 15px; }
-    .name-text {
-      font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif;
-      font-weight: 900;
-      font-size: 52px;
-      fill: url(#draculaGrad);
-      letter-spacing: 2px;
-    }
-    .orb {
-      animation: float 4s ease-in-out infinite alternate;
-    }
-    .orb-1 { animation-delay: 0s; }
-    .orb-2 { animation-delay: -1.3s; }
-    .orb-3 { animation-delay: -2.6s; }
-
-    @keyframes float {
-      0% { transform: translateY(0px) scale(1); }
-      50% { transform: translateY(-10px) scale(1.1); }
-      100% { transform: translateY(8px) scale(0.95); }
-    }
-  </style>
-
-  <rect class="bg" width="100%" height="100%" />
-
-  <!-- Animated Thinking Orbs Background -->
-  <g filter="url(#glow)">
-    <circle class="orb orb-1" cx="120" cy="40" r="35" fill="url(#orbGlow1)" />
-    <circle class="orb orb-2" cx="780" cy="90" r="45" fill="url(#orbGlow2)" />
-    <circle class="orb orb-3" cx="450" cy="25" r="30" fill="url(#orbGlow3)" />
-    <circle class="orb orb-1" cx="820" cy="30" r="25" fill="url(#orbGlow1)" />
-    <circle class="orb orb-2" cx="80" cy="95" r="30" fill="url(#orbGlow3)" />
-  </g>
-
-  <!-- Name Text -->
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="name-text" filter="url(#glow)">
-    Jahnavi Deshkar
-  </text>
-</svg>
-
-<!-- Morphing Subtitle Animation -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%">
-  <style>
-    .sub-text {
-      font-family: 'Segoe UI', Ubuntu, sans-serif;
-      font-weight: 600;
-      font-size: 20px;
-      text-anchor: middle;
-      dominant-baseline: middle;
-    }
-    
-    .phrase1 { animation: cycle1 9s infinite ease-in-out; }
-    .phrase2 { animation: cycle2 9s infinite ease-in-out; }
-    .phrase3 { animation: cycle3 9s infinite ease-in-out; }
-
-    @keyframes cycle1 {
-      0%, 28% { opacity: 1; transform: translateY(0px); fill: #50fa7b; }
-      33%, 100% { opacity: 0; transform: translateY(-10px); fill: #50fa7b; }
-    }
-
-    @keyframes cycle2 {
-      0%, 31% { opacity: 0; transform: translateY(10px); fill: #8be9fd; }
-      34%, 61% { opacity: 1; transform: translateY(0px); fill: #8be9fd; }
-      66%, 100% { opacity: 0; transform: translateY(-10px); fill: #8be9fd; }
-    }
-
-    @keyframes cycle3 {
-      0%, 64% { opacity: 0; transform: translateY(10px); fill: #ffb86c; }
-      67%, 94% { opacity: 1; transform: translateY(0px); fill: #ffb86c; }
-      98%, 100% { opacity: 0; transform: translateY(-10px); fill: #ffb86c; }
-    }
-  </style>
-
-  <rect width="100%" height="100%" fill="#282a36" rx="10"/>
-  
-  <g id="morph-container">
-    <text x="50%" y="50%" class="sub-text phrase1">Solving Problems</text>
-    <text x="50%" y="50%" class="sub-text phrase2">Creating Balance</text>
-    <text x="50%" y="50%" class="sub-text phrase3">Experiencing Reality</text>
-  </g>
-</svg>
+<!-- Animated Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&height=50&lines=Solving+Problems;Creating+Balance;Experiencing+Reality" alt="Typing SVG" />
+</a>
 
 </div>
 
