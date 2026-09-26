@@ -34,14 +34,22 @@
 
 ### 📊 GitHub Statistics
 
+### 📊 GitHub Statistics
+
 <div align="center">
 
-<a href="https://github.com/jahnavi-deshkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahnavi-deshkar&show_icons=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&border_color=44475a&hide_border=false" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/jahnavi-deshkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi-deshkar&layout=compact&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&border_color=44475a&hide_border=false" alt="Top Languages" />
-</a>
+<!-- Main Stats Card -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jahnavi-deshkar&show_icons=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&border_color=44475a&hide_border=false" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jahnavi-deshkar&layout=compact&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&border_color=44475a&hide_border=false" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Streak Stats Card (Stable Alternative to Trophies) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi-deshkar&theme=dracula&background=282a36&border=44475a&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak" />
+
+</div>
 
 <br/><br/>
 
