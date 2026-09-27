@@ -32,16 +32,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-
-<div align="center">
-
-<!-- Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi-deshkar&theme=dracula&background=282a36&border=44475a&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak" />
-
-</div>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -81,6 +71,18 @@
 - [ ] 🌐 Contribute to Open Source
 - [ ] 💼 Build a strong project portfolio
 - [ ] 📚 Keep learning every day!
+
+---
+
+### 📊 GitHub Statistics
+
+
+<div align="center">
+
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi-deshkar&theme=dracula&background=282a36&border=44475a&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak" />
+
+</div>
 
 ---
 
